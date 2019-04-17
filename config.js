@@ -16,6 +16,7 @@ var config = {
     // + snow
     // + yellow
     theme: 'night-blue',
+    appTitle: process.env.TITLE || '',
 
     // clients configs
     api: {
