@@ -19,6 +19,7 @@
     "babel-preset-react": "6.5.0",
     "babel-register": "6.7.2",
     "bluebird": "^3.3.4",
+    "chart.js": "^1.1.1",
     "dotenv": "^0.5.1",
     "gulp": "^3.9.0",
     "lodash": "^3.10.0",
@@ -27,7 +28,8 @@
     "mozaik-ext-github": "1.2.2",
     "mozaik-ext-jenkins": "git+https://github.com/XiaowenJiang/mozaik-ext-jenkins.git",
     "mozaik-ext-jira": "git+https://github.com/XiaowenJiang/mozaik-ext-jira.git",
-    "react": "^0.13.3"
+    "react": "^0.13.3",
+    "react-chartjs": "git+https://github.com/XiaowenJiang/react-chartjs.git"
   },
   "scripts": {
     "test": "npm run build-assets",

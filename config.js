@@ -55,6 +55,7 @@ var config = {
                 {
                   type: 'jenkins.job_status_progress',
                   job: process.env.JENKINS_JOB_0,
+                  colorized: false,
                   columns: 1, rows: 1,
                   x: 0, y: 0
                 },
